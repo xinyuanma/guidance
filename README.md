@@ -2,6 +2,8 @@
 guidance documents 
 
 
-
+## Tool:
 1. Microsoft Graph API
-2. office365.sharepoint.client_context
+
+## Python Package:
+1. office365.sharepoint.client_context
