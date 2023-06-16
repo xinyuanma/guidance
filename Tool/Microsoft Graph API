@@ -38,4 +38,6 @@ Now that you're familiar with the basics, explore the Microsoft Graph API docume
 6. Security and Permissions:
 When registering your application, ensure you configure the necessary permissions and scopes based on the actions you intend to perform. Restrict access to only the required resources and follow the principle of least privilege.
 
+
+Remeber to refer to the comprehensive [API documentation](https://learn.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0) for more detailed information and explore the capabilities and possiblilities by [graph-explorer](https://developer.microsoft.com/en-us/graph/graph-explorer).
 Happy coding!
