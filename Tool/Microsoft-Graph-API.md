@@ -1,6 +1,5 @@
 Introduction:
 This document will provide you with a step-by-step walkthrough on how to leverage the power of the Microsoft Graph API in your applications. With this API, you can access a wide range of Microsoft services and resources, enabling you to build robust and integrated solutions. 
-Let's get started!
 
 1. Register Your Application:
 To begin, you'll need to register your application with the Microsoft Azure portal. This process allows you to obtain the necessary credentials (client ID and client secret) for authenticating and authorizing your requests. Make sure to choose the appropriate application type (web app, mobile app, etc.) during registration.
