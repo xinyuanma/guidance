@@ -7,6 +7,11 @@ To start using the Office365-REST-Python-Client package, you need to install it 
 pip install Office365-REST-Python-Client
 ```
 
+Alternatively the latest version could be directly installed via GitHub:
+```
+pip install git+https://github.com/vgrem/Office365-REST-Python-Client.git
+```
+
 2. Authentication Credentials
 For the following examples, relevant credentials can be found in the Azure Portal.
 Steps to access:
